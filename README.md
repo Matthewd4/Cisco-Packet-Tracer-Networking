@@ -32,7 +32,7 @@ Designed a simulated network topology incorporating separate logical network seg
 
 ### Network Topology
 
-![Network Topology](Project-1-VLAN-Segmentation/network-topology.png)
+![Network Topology](Project-1-VLAN-Segmentation/Topology.png)
 
 ## Technical Skills Demonstrated
 
