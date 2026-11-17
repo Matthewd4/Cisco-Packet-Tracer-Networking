@@ -29,7 +29,7 @@ The design illustrates how different device categories can be organized into sep
 
 ## Network Topology
 
-![Cisco Packet Tracer Network Topology](network-topology.png)
+![Cisco Packet Tracer Network Topology](Network-Topology.png)
 
 ## Project Activities
 
